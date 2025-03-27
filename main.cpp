@@ -31,7 +31,18 @@ int main() {
     string ime = "ana";
     cout << ime << endl;
 
+    //Зошто променливите се викаат променливи? Бидејќи нивната вредност може да се менува
+    int godini = 19;
+    godini = 20;
+    string imeKlient = "Jana";
 
+
+    cout<<imeKlient<<" ima sega: "<<godini<<" godini \n";
+
+    godini = 21;
+
+
+    cout<<godini;
 
 
 

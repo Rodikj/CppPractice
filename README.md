@@ -10,3 +10,8 @@
 7. ifElse.cpp
 8. forLoops.cpp
 9. whileDoWhileLoops.cpp
+10. LoopsExercise1
+11. LoopsExercise2
+12. LoopsExercise3
+13. LoopsExercise4
+14. Arrays

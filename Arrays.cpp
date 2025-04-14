@@ -24,6 +24,10 @@ int main()
     for(int i=0; i<10; i++) {
         cout<<IntegerArray[i] << " " ;
     }
+    // Доколку сакаме корисникот да ги внесе елементите во Array-от
+    for(int i=0; i<10; i++) {
+        cin>>IntegerArray[i];
+    }
 
     // float секогаш има децимално место
     // Пример за Array од тип float

@@ -15,3 +15,6 @@
 12. LoopsExercise3
 13. LoopsExercise4
 14. Arrays
+15. Functions
+16. Functions 2
+17. Functions 3

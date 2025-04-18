@@ -18,3 +18,5 @@
 15. Functions
 16. Functions 2
 17. Functions 3
+18. switchCase
+19. switchCase2

@@ -21,3 +21,4 @@
 18. switchCase
 19. switchCase2
 20. PrePostOperations -> Pre/Post Increment/Decrement
+21. Exercises

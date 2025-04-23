@@ -10,15 +10,15 @@
 7. ifElse.cpp
 8. forLoops.cpp
 9. whileDoWhileLoops.cpp
-10. LoopsExercise1
-11. LoopsExercise2
-12. LoopsExercise3
-13. LoopsExercise4
-14. Arrays
-15. Functions
-16. Functions 2
-17. Functions 3
-18. switchCase
-19. switchCase2
-20. PrePostOperations -> Pre/Post Increment/Decrement
-21. Exercises
+10. LoopsExercise1.cpp
+11. LoopsExercise2.cpp
+12. LoopsExercise3.cpp
+13. LoopsExercise4.cpp
+14. Arrays.cpp
+15. Functions.cpp
+16. Functions2.cpp
+17. Functions3.cpp
+18. switchCase.cpp
+19. switchCase2.cpp
+20. PrePostOperations.cpp
+21. Exercises.cpp
